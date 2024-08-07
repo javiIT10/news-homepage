@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-using-tailwind-css-Q4fEJ1bzPy](https://www.frontendmentor.io/solutions/news-homepage-using-tailwind-css-Q4fEJ1bzPy)
+- Live Site URL: [https://javiit10.github.io/news-homepage/](https://javiit10.github.io/news-homepage/)
 
 ## My process
 
